@@ -1,1 +1,1 @@
-# Exercise-Monitoring-Using-Opencv
+# Exercise Monitoring Using OpenCV and Mediapipe
